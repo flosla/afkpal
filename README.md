@@ -1,30 +1,33 @@
-# 🟢 AFKPal – Your Friendly Anti-AFK Companion for Windows
+# 🟢 AFKPal – Keep Your PC Awake & Your Status Always Green (Teams, Slack, Zoom, etc.)
 
-> Keep your PC awake, your Teams status green, and your flow uninterrupted.  
-> **Lightweight • No Setup • No Admin Rights • Just Click and Go**
+> Never show up as “Away” again. Prevent screen dimming and idle time — no installs, no hassle.  
+> **Lightweight • No Admin Rights • Click to Start • 100% Offline**
 
 ---
 
 ## ✨ What is AFKPal?
 
-**AFKPal** is a tiny Windows app that keeps your computer from going idle by gently simulating activity in the background. It helps you:
+**AFKPal** is a tiny Windows app that **keeps your computer awake and your online status always active** — even if you walk away for a few minutes (or hours).
 
-- 🧍‍♂️ Stay “Available” on Teams and Zoom
-- 💻 Prevent the screen from dimming or locking
-- 🧘‍♀️ Step away without your computer falling asleep
+It works with:
+- 🟢 **Microsoft Teams**
+- 💬 **Slack**
+- 🎥 **Zoom**
+- 💻 Any app or system that tracks inactivity
 
-Built for remote workers, deep thinkers, and anyone who’s tired of being marked as AFK (away from keyboard) when they’re not.
+No more status flipping to “Away” when you're in deep work, reading, or just stretching your legs.
 
 ---
 
 ## 🚀 Features
 
-✅ No installation — just download and run  
+✅ Keeps your PC awake & active  
+✅ Works with Teams, Slack, Zoom, etc.  
+✅ No install needed — just unzip and run  
 ✅ No admin rights required  
+✅ Simple window with Start/Stop buttons  
 ✅ 100% offline — no tracking or network access  
-✅ Clean and simple user interface  
-✅ Very lightweight — minimal CPU and memory use  
-✅ Open source — inspect or improve if you like  
+✅ Extremely lightweight — minimal CPU & memory use  
 
 ---
 
@@ -34,72 +37,74 @@ Built for remote workers, deep thinkers, and anyone who’s tired of being marke
 
 👉 [Download AFKPal v1.0.0 (.zip)](https://github.com/yourname/afkpal/releases/latest)
 
-### 📦 What’s Inside the ZIP?
+### 📦 Inside the ZIP:
 
-- `AFKPal.exe` – the main app
-- `README.txt` – short instructions
+- `AFKPal.exe` – the app
+- `README.txt` – quick instructions
 
-No installer. No bloat. Just the app.
+No installers. No bloat. Just what you need.
 
 ---
 
 ## 🛠️ How to Install & Use
 
 ### 1. 📥 Download the App  
-Click the link above and download the `.zip` file.
+Click the link above to download the `.zip` file.
 
 ### 2. 🗂️ Unzip the File  
-Right-click the ZIP and choose **“Extract All…”**, or use a tool like 7-Zip.
+Right-click the ZIP → “Extract All…” or use a tool like 7-Zip.
 
 ### 3. 🖱️ Open the App  
-Double-click `AFKPal.exe`  
-> 💡 No installation needed — it runs immediately.
+Double-click `AFKPal.exe`
 
-> ⚠️ **First Time Warning?**  
-> Windows might show a SmartScreen message.  
+> ⚠️ **First time warning?**  
+> Windows might say the app is from an unknown source.  
 > Click **“More info” → “Run anyway”** — it’s safe.
 
 ### 4. 🖥️ Use the App  
-When the app opens, you’ll see a **small window on your desktop** with two buttons:
+You’ll see a small window with two buttons:
 
-- 🟢 **Start** – Begin keeping your PC awake  
-- 🔴 **Stop** – Turn the feature off
+- 🟢 **Start** – Simulates gentle activity to keep your status green and your PC awake  
+- 🔴 **Stop** – Turns off the activity
 
-You can leave the app running while you work, take breaks, or just relax. It won’t get in your way, and it won’t touch anything on your system.
+Just click Start and minimize — AFKPal runs quietly in the background until you stop it or close the app.
+
+---
 
 ## 🔐 Privacy & Safety
 
-AFKPal is 100% local and safe:
-- No data sent or received
-- No system modifications
-- No background snooping
+AFKPal is completely safe and local:
+- 🔒 No internet connection required
+- 🛡 No data collected or shared
+- 🧹 No registry changes, no startup entries
 
-Just a helpful little helper.
-
----
-
-## 🗣 Feedback & Ideas?
-
-Got feature requests? Found a bug?  
-Open an [issue](https://github.com/yourname/afkpal/issues) or start a discussion!
-
-Ideas we’re considering:
-- 🔁 Auto-start on boot
-- ⏰ Schedules for auto-pause
-- 🎛️ GUI controls
+What you see is exactly what it does.
 
 ---
 
-## 🔧 Tech Stack
+## 💬 Questions or Feedback?
 
-- ⚙️ C# + WinForms
+Got a suggestion? Found a bug?  
+Open an [issue](https://github.com/yourname/afkpal/issues) or start a discussion.
+
+Ideas for future updates:
+- 🛠️ Auto-start with Windows
+- 🕒 Schedule activation times
+- 🎛️ More UI settings
+
+---
+
+## 🛠 Built With
+
+- 👨‍💻 C# and WinForms
 - 🏗️ .NET 8 SDK
-- 🪶 Published as a single, self-contained `.exe`
+- 📦 Published as a portable, single `.exe`
 
 ---
 
 ## 🙌 Support the Project
 
-If AFKPal made your workday easier, consider giving it a ⭐ or sharing it with a friend!
+If AFKPal helped you stay green or stress less — drop a ⭐, share it, or tell a coworker!
 
 ---
+
